@@ -1,0 +1,35 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "My TypeScript Book Examples",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesode/ts-book.git"
+  },
+  "keywords": [
+    "typescript",
+    "demo",
+    "example"
+  ],
+  "author": "Mesode Kelly",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mesode/ts-book/issues"
+  },
+  "homepage": "https://github.com/mesode/ts-book#readme",
+  "engines": {},
+  "devDependencies": {
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^6.0.0-alpha.1"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "jquery": "^3.6.0",
+    "vinyl-transform": "^1.0.0"
+  }
+}
